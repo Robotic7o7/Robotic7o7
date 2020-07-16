@@ -17,6 +17,8 @@
 
 > Databases : <br/> <img src="https://img.shields.io/badge/Firebase--yellow?style=for-the-badge&logo=firebase" /> <img src="https://img.shields.io/badge/Indexed%20DB--orange?style=for-the-badge&logo=indexeddb" /> <img src="https://img.shields.io/badge/My%20SQL%20DB--blue?style=for-the-badge&logo=mysql" />
 
+> Source Control: <br/> <img src="https://img.shields.io/badge/Git-%20-red?style=for-the-badge&logo=git" /> <img src="https://img.shields.io/badge/Github-%20-blue?style=for-the-badge&logo=github" />
+
 > Miscellaneous: <br/> <img src="https://img.shields.io/badge/Arduino--cyan?style=for-the-badge&logo=arduino" />
 
 
