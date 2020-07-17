@@ -23,6 +23,8 @@
 
 > Source Control: <br/> <img src="https://img.shields.io/badge/Git-%20-red?style=for-the-badge&logo=git" /> <img src="https://img.shields.io/badge/Github-%20-blue?style=for-the-badge&logo=github" />
 
+> CMS: <br/> <img src="https://img.shields.io/badge/Wordpress-%20-orange?style=for-the-badge&logo=wordpress" />
+
 > Miscellaneous: <br/> <img src="https://img.shields.io/badge/Arduino--cyan?style=for-the-badge&logo=arduino" />
 
 
