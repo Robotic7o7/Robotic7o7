@@ -5,7 +5,7 @@
 > <br/> <img src="https://img.shields.io/badge/Instagram--cyan?style=social&logo=instagram&?link=http://left&link=http:instagram.com/_robotic7o7_" />   <img src="https://img.shields.io/badge/Linked%20In--cyan?style=social&logo=linkedin&?link=http://left&link=https://www.linkedin.com/in/rohan-christopher-439234166/" />
 
 > #### :warning: :construction: Currently Working on
-- Personal Journal using React + Indexed DB :new:
+- Virtual SAC - Meeting Interface for IEEE - VBIT SB :new:
 - React Covid Dashboard with Live News :new:
 
 ### Skill Set
