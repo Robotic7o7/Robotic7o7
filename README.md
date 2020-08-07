@@ -1,6 +1,6 @@
 ### Hi there 👋 this is Rohan Christopher :alien:
 
-> Learning to be a Full Stack Web Developer :computer: and IoT Solutions Developer, here to Ideate :bulb: and make those Ideas a reality. :octocat:
+> Learning to be a Javascript Engineer preferable in the field of Full Stack Web Develpment :computer: and IoT Solutions Developer, here to Ideate :bulb: and make those Ideas a reality. :octocat:
 
 > <br/> <img src="https://img.shields.io/badge/Instagram--cyan?style=social&logo=instagram&?link=http://left&link=http:instagram.com/_robotic7o7_" />   <img src="https://img.shields.io/badge/Linked%20In--cyan?style=social&logo=linkedin&?link=http://left&link=https://www.linkedin.com/in/rohan-christopher-439234166/" />
 
