@@ -2,13 +2,15 @@
 
 > Learning to be a Javascript Engineer preferably in the field of Full Stack Web Develpment :computer: and IoT Solutions Developer, here to Ideate :bulb: and make those Ideas a reality. :octocat:
 
-> <br/> <img src="https://img.shields.io/badge/Instagram--cyan?style=social&logo=instagram&?link=http://left&link=http:instagram.com/_robotic7o7_" />   <img src="https://img.shields.io/badge/Linked%20In--cyan?style=social&logo=linkedin&?link=http://left&link=https://www.linkedin.com/in/rohan-christopher-439234166/" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Robotic7o7" alt="robotic7o7" /> </p>
+
+---
 
 > #### :warning: :construction: Currently Working on
 - React Form with Node+Express Backend with integerated NodeMailer Module :new:
 - React Covid Dashboard with Live News :new:
 
-![Rohan's Github Stats](https://github-readme-stats.vercel.app/api?username=Robotic7o7&show_icons=true&theme=tokyonight)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Robotic7o7&show_icons=true&theme=tokyonight" alt="Robotic7o7" />
 
 ### Skill Set
 
