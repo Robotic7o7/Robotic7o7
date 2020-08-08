@@ -16,6 +16,11 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
 </p>
 
+<div align="right">  
+  
+ [Complete Skill Matrix](#skill-set)
+
+</div>
 
 ---
 
