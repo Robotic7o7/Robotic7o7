@@ -4,17 +4,30 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Robotic7o7" alt="robotic7o7" /> </p>
 
+<h3 align="center"> <ins>My Top Skills</ins> </h3>
+
+<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JS" width="60" height="60"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
+</p>
+
+
 ---
 
 > #### :warning: :construction: Currently Working on
 - React Form with Node+Express Backend with integerated NodeMailer Module :new:
 - React Covid Dashboard with Live News :new:
 
-<p align="center">
-
+<div align="center">
+  
 ![Robotic707's github stats](https://github-readme-stats.vercel.app/api?username=Robotic7o7&show_icons=true&theme=tokyonight) 
 
-</p>
+</div>
 
 ### Skill Set
 
