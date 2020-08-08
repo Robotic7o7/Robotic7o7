@@ -32,8 +32,6 @@
   
 ![Robotic707's github stats](https://github-readme-stats.vercel.app/api?username=Robotic7o7&show_icons=true&theme=tokyonight) 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robotic7o7&layout=compact&hide=html" alt="Robotic7o7" />
-
 </div>
 
 ### Skill Set
