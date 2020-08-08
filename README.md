@@ -10,8 +10,11 @@
 - React Form with Node+Express Backend with integerated NodeMailer Module :new:
 - React Covid Dashboard with Live News :new:
 
-![Robotic707's github stats] 
-(https://github-readme-stats.vercel.app/api?username=Robotic7o7&show_icons=true&theme=tokyonight)
+<p align="center">
+
+![Robotic707's github stats](https://github-readme-stats.vercel.app/api?username=Robotic7o7&show_icons=true&theme=tokyonight) 
+
+</p>
 
 ### Skill Set
 
