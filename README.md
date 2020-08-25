@@ -25,8 +25,8 @@
 ---
 
 > #### :warning: :construction: Currently Working on
-- React Form with Node+Express Backend with integerated NodeMailer Module :new:
-- React Covid Dashboard with Live News :new:
+- MERN Registration module :new:
+- Automatic Zoom Class link opener with vanilla JS :new:
 
 <div align="center">
   
