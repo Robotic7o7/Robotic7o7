@@ -27,8 +27,7 @@
 
 > #### :warning: :construction: Currently Working on
 - Web App for a healthcare based startup  :new:
-- Sample LeaderBoard   :new:
-- Automatic Zoom Class link opener with vanilla JS :new:
+- Learning Frontity :new:
 
 <div align="center">
   
