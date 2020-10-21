@@ -28,6 +28,7 @@
 > #### :warning: :construction: Currently Working on
 - Web App for a healthcare based startup  :new:
 - Learning Frontity :new:
+- Employee Management Systems Node JS+ MySql :new:
 
 <div align="center">
   
