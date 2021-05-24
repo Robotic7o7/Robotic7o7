@@ -6,21 +6,15 @@
 
 <h3 align="center"> <ins>My Top Skills</ins> </h3>
 
-<a href="https://rohanchristopher.tech">Visit me here :computer:</a>
-
-<div align="right">  
+<div align="center">
   
- [Complete Skill Matrix](#skill-set)
-
-</div>
+  <a href="https://rohanchristopher.tech">Visit me here rohanchristopher.tech :computer:</a>
+  
+ </div>
 
 
 ---
-
-> #### :warning: :construction: Currently Working on
-- Web App for a healthcare based startup  :new:
-- Learning Frontity :new:
-- Employee Management Systems Node JS+ MySql :new:
+Currently coding for <a href="https://graphwitty.com">GraphWitty</a>
 
 <div align="center">
   
