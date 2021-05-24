@@ -4,17 +4,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Robotic7o7" alt="robotic7o7" /> </p>
 
-<h3 align="center"> <ins>My Top Skills</ins> </h3>
-
 <div align="center">
   
-  <a href="https://rohanchristopher.tech">Visit me here rohanchristopher.tech :computer:</a>
+  <a href="https://rohanchristopher.tech">Visit me here rohanchristopher.tech </a> :computer:
+  
+  Currently coding for <a href="https://graphwitty.com">GraphWitty</a>
+
   
  </div>
 
 
 ---
-Currently coding for <a href="https://graphwitty.com">GraphWitty</a>
 
 <div align="center">
   
