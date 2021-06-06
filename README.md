@@ -1,7 +1,6 @@
 ### Hi there 👋 this is Rohan Christopher :alien:
 
-> Learning to be a Javascript Engineer preferably in the field of Full Stack Web Develpment :computer: and IoT Solutions Developer, here to Ideate :bulb: and make those Ideas a reality. :octocat:
-
+> Intermediate Javascript Engineer working my way to proficiency in the field of Full Stack Web Develpment. :computer: Here to Ideate upon solutions :bulb: to real time client problems :alarm_clock: and make them a reality.
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Robotic7o7" alt="robotic7o7" /> </p>
 
 <div align="center">
