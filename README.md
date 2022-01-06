@@ -7,7 +7,7 @@
   
   <a href="https://rohanchristopher.tech">Visit me here rohanchristopher.tech </a> :computer:
   
-  Currently coding for <a href="https://graphwitty.com">GraphWitty</a>
+  Currently coding for <a href="https://karkinos.in">Karkinos Healthcare</a>
 
   
  </div>
