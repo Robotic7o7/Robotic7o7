@@ -1,6 +1,6 @@
 ### Hi there 👋 this is Rohan Christopher :alien:
 
-> Intermediate Javascript Engineer working my way to proficiency in the field of Full Stack Web Develpment. :computer: Here to Ideate upon solutions :bulb: to real time client problems :alarm_clock: and make them a reality.
+> Intermediate Javascript Engineer working my way to proficiency in the field of Full Stack Web Develpment. :computer: Here to Ideate upon solutions :bulb: to real time client problems :alarm_clock: and make them a reality. Lately, my experience has focused mostly on backend server code and infrastructure. 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Robotic7o7" alt="robotic7o7" /> </p>
 
 <div align="center">
