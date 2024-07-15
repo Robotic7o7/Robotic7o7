@@ -25,7 +25,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/rohan-christopher-439234166" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rohan-christopher-439234166" height="30" width="30" /></a>  ||     
     <a href="https://fb.com/robotic7o7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="robotic7o7" height="30" width="30" /></a>  ||  
-    <a href="https://instagram.com/_robotic7o7_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_robotic7o7_" height="30" width="30" /></a>
+    <a href="https://instagram.com/robotic7o7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_robotic7o7_" height="30" width="30" /></a>
 </p>
 
 ---
