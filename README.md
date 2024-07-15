@@ -32,25 +32,24 @@
 
 ### Skill Set
 
->Primary Skill set: <br/>
+#### Primary Skill set: <br/>
 
-
->Front-end:
+Front-end:
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <br/>
->API-layer/Backend:
+API-layer/Backend:
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 <br/>
->Database:
+Database:
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <br/>
->Primary Scripting Languages:
+Primary Scripting Languages:
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-
+<br/>
 
 >Scripting Languages: <br/>
 <img src="https://img.shields.io/badge/HTML%205-%20-red?style=for-the-badge&logo=html5" /> <img src="https://img.shields.io/badge/CSS%203-%20-green?style=for-the-badge&logo=css3" /> <img src="https://img.shields.io/badge/Javascript-%20-yellow?style=for-the-badge&logo=javascript" />
