@@ -50,6 +50,8 @@ Primary Scripting Languages:<br/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <br/>
+<br/>
+#### Additional Skills set: <br/>
 
 >Scripting Languages: <br/>
 <img src="https://img.shields.io/badge/HTML%205-%20-red?style=for-the-badge&logo=html5" /> <img src="https://img.shields.io/badge/CSS%203-%20-green?style=for-the-badge&logo=css3" /> <img src="https://img.shields.io/badge/Javascript-%20-yellow?style=for-the-badge&logo=javascript" />
