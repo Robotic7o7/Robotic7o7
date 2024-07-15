@@ -1,6 +1,6 @@
 ### Hi there 👋 this is Rohan Christopher :alien:
 
-> Intermediate Javascript Engineer working my way to proficiency in the field of Full Stack Web Develpment. :computer: Here to Ideate upon solutions :bulb: to real time client problems :alarm_clock: and make them a reality. Lately, my experience has focused mostly on backend server code and infrastructure. 
+> Intermediate Javascript Engineer working my way to proficiency in the field of Full Stack Web Develpment. :computer: Here to Ideate upon solutions :bulb: to real time client problems :alarm_clock: and make them a reality. 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Robotic7o7" alt="robotic7o7" /> </p>
 
 <div align="center">
@@ -13,14 +13,6 @@
   
  </div>
 
-
----
-
-<div align="center">
-  
-![Robotic707's github stats](https://github-readme-stats.vercel.app/api?username=Robotic7o7&show_icons=true&theme=tokyonight) 
-
-</div>
 
 <p align="center">
 <a href="https://linkedin.com/in/rohan-christopher-439234166" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rohan-christopher-439234166" height="30" width="30" /></a>  ||     
