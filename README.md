@@ -8,7 +8,7 @@
   <a href="https://rohanchristopher.in">Visit me here rohanchristopher.in</a> :computer:<br/>
   <a href="https://blog.rohanchristopher.in">Read my blogs, my work, tech solutions to business problems etc.</a> :computer:
   
-  Currently coding for <a href="https://medicodio.com">MediCodio Inc.</a>
+  Currently coding for <a href="https://aerospace.honeywell.com/">Honeywell</a>
 
   
  </div>
